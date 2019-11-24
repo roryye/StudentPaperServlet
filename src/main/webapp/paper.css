@@ -1,0 +1,48 @@
+.author {
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    margin-left: 12px;
+    width: 18px;
+    height: 18px;
+}
+
+.title {
+    font-size: x-large;
+    color: black;
+    margin-right: 200px;
+    width:200px;
+    overflow:hidden;
+    white-space: nowrap;/* 不显示的地方用省略号...代替 */
+    text-overflow: ellipsis;/* 支持 IE */
+    -o-text-overflow: ellipsis;/* 支持 Opera */
+}
+
+.school {
+    float: right;
+    font-size: larger;
+    margin-top: 7px;
+    color: black;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.addStuSchool {
+    margin-bottom: 30px;
+}
+
+.addStu {
+    margin-left: 100px;
+}
+
+textarea {
+    vertical-align: top;
+}
+.modifyPaper{
+    margin-left: 100px;
+}

@@ -1,0 +1,35 @@
+.no {
+    color: #98a49a;
+}
+
+img {
+    margin-left: 12px;
+    width: 18px;
+    height: 18px;
+}
+
+.name {
+    font-size: x-large;
+    color: black;
+    margin-right: 200px;
+}
+
+.school {
+    float: right;
+    font-size: larger;
+    margin-top: 7px;
+    color: black;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.addStuSchool {
+    margin-bottom: 30px;
+}
+
+.addStu {
+    margin-left: 100px;
+}
+
